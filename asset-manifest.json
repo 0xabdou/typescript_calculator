@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/typescript_calculator/static/css/main.383cbaed.chunk.css",
-    "main.js": "/typescript_calculator/static/js/main.6f4d60e8.chunk.js",
-    "main.js.map": "/typescript_calculator/static/js/main.6f4d60e8.chunk.js.map",
-    "runtime-main.js": "/typescript_calculator/static/js/runtime-main.0185c092.js",
-    "runtime-main.js.map": "/typescript_calculator/static/js/runtime-main.0185c092.js.map",
-    "static/js/2.89f1f4f5.chunk.js": "/typescript_calculator/static/js/2.89f1f4f5.chunk.js",
-    "static/js/2.89f1f4f5.chunk.js.map": "/typescript_calculator/static/js/2.89f1f4f5.chunk.js.map",
-    "static/js/3.ac5930a8.chunk.js": "/typescript_calculator/static/js/3.ac5930a8.chunk.js",
-    "static/js/3.ac5930a8.chunk.js.map": "/typescript_calculator/static/js/3.ac5930a8.chunk.js.map",
+    "main.css": "/typescript_calculator/static/css/main.1fc76347.chunk.css",
+    "main.js": "/typescript_calculator/static/js/main.a355a108.chunk.js",
+    "main.js.map": "/typescript_calculator/static/js/main.a355a108.chunk.js.map",
+    "runtime-main.js": "/typescript_calculator/static/js/runtime-main.d3e231bc.js",
+    "runtime-main.js.map": "/typescript_calculator/static/js/runtime-main.d3e231bc.js.map",
+    "static/js/2.938a17f3.chunk.js": "/typescript_calculator/static/js/2.938a17f3.chunk.js",
+    "static/js/2.938a17f3.chunk.js.map": "/typescript_calculator/static/js/2.938a17f3.chunk.js.map",
+    "static/js/3.0a6d0822.chunk.js": "/typescript_calculator/static/js/3.0a6d0822.chunk.js",
+    "static/js/3.0a6d0822.chunk.js.map": "/typescript_calculator/static/js/3.0a6d0822.chunk.js.map",
     "index.html": "/typescript_calculator/index.html",
-    "static/css/main.383cbaed.chunk.css.map": "/typescript_calculator/static/css/main.383cbaed.chunk.css.map",
-    "static/js/2.89f1f4f5.chunk.js.LICENSE.txt": "/typescript_calculator/static/js/2.89f1f4f5.chunk.js.LICENSE.txt",
+    "static/css/main.1fc76347.chunk.css.map": "/typescript_calculator/static/css/main.1fc76347.chunk.css.map",
+    "static/js/2.938a17f3.chunk.js.LICENSE.txt": "/typescript_calculator/static/js/2.938a17f3.chunk.js.LICENSE.txt",
     "static/media/index.css": "/typescript_calculator/static/media/digital-7.93911ab1.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.0185c092.js",
-    "static/js/2.89f1f4f5.chunk.js",
-    "static/css/main.383cbaed.chunk.css",
-    "static/js/main.6f4d60e8.chunk.js"
+    "static/js/runtime-main.d3e231bc.js",
+    "static/js/2.938a17f3.chunk.js",
+    "static/css/main.1fc76347.chunk.css",
+    "static/js/main.a355a108.chunk.js"
   ]
 }
